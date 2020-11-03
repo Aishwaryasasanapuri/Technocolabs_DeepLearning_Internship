@@ -7,7 +7,7 @@ All the Projects worked as part of Technolabs_DeepLearning_Internship are update
 1. Configuring a Deep Learning Environment
 2. Exploring a Trained Neural Network
 
-- Please refer code here for activity 1- 2  [code_link](https://github.com/Aishwaryasasanapuri/Technocolabs_DeepLearning_Internship/blob/main/MNIST_Data/MNIST_dataset.ipynb)
+- Please refer code  [here](https://github.com/Aishwaryasasanapuri/Technocolabs_DeepLearning_Internship/blob/main/MNIST_Data/MNIST_dataset.ipynb) for activity 1- 2
 
 3. Exploring and Preparing Data for Modeling 
 4. Creating a TensorFlow Model Using Keras
