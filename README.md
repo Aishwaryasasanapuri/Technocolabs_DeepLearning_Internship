@@ -18,9 +18,9 @@ All the Projects worked as part of Technolabs_DeepLearning_Internship are update
 - Please refer code for Task 3-7 
 [code_link](https://github.com/Aishwaryasasanapuri/Technocolabs_DeepLearning_Internship/blob/main/Bitcoin%20Data/Bitcoin_Dataset_Project.ipynb)
 
-Activity 8: Building Dynamic Models
+8. Building Dynamic Models
 [Code_Link](https://github.com/Aishwaryasasanapuri/Technocolabs_DeepLearning_Internship/blob/main/Bitcoin%20Data/Deployement/Deployment_Building_Dynamic_Models.ipynb)
 
 #### Working on below activity :-
 
-Activity 9: Deploying a Deep Learning Application
+9. Deploying a Deep Learning Application
